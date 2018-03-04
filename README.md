@@ -9,4 +9,4 @@ The ciruit is designed to either use battery, or powerbank which many Indonesian
 Links:
 * http://lifepatch.org
 * http://lifepatch.org/Workshop_Pemanggil_Ikan_-_JRP_2014
-
+* http://andreassiagian.wordpress.com
