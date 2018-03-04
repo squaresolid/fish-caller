@@ -5,7 +5,8 @@ Fish Caller is a simple circuit based on 555 timer chip IC that is designed as a
 
 The ciruit is designed to either use battery, or powerbank which many Indonesian has. The circuit is not waterproof (duh!), in order to use it, the LED and/or Buzzer must be connected to wire and isolated it with Hot Glue to protect it from water. LED and/or Buzzer should be placed closest to the bait.
 
-![alt text](http://lifepatch.org/Workshop_Pemanggil_Ikan_-_JRP_2014#/media/File:Workshop_Fish_Caller_Jogja_River_Project_2014.jpg?raw=true)
 
 Links:
 * http://lifepatch.org
+* http://lifepatch.org/Workshop_Pemanggil_Ikan_-_JRP_2014
+
