@@ -3,7 +3,7 @@ Fish Caller is a simple circuit based on 555 timer chip IC that is designed as a
 
 ![alt text](https://github.com/squaresolid/fish-caller/blob/master/Fish%20Caller%20part%20placement.png?raw=true)
 
-The ciruit is designed to either use battery, or powerbank which many Indonesian has. The circuit is not waterproof (duh!), in order to use it, the LED and/or Buzzer must be connected to wire and isolated it with Hot Glue to protect it from water. LED and/or Buzzer should be placed closest to the bait.
+The ciruit is designed to either use battery, or powerbank which many Indonesian has. The circuit is not waterproof (duh!), in order to use it, the LED and/or Buzzer must be connected to wire and isolated it with Hot Glue to protect it from water. LED and/or Buzzer should be placed closest to the bait. The Trimmer Potentiometer is to adjust the rate of the frequency. 
 
 
 Links:
