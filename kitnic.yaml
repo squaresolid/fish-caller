@@ -1,5 +1,5 @@
 summary: Circuit for FISHING!
 site: http://lifepatch.org
-color: purple 
-bom: fish-caller/Fish_Caller_BOM.tsv
-gerbers: fish-caller/Fish_Caller_Gerber
+color: purple
+bom: Fish Caller BOM.tsv
+gerbers: Fish Caller Gerber
